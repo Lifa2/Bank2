@@ -1,0 +1,2 @@
+2025-05-12 09:49:48.340240, Deposit, 10000.0, , , Account 274106 deposited 10000.0 ZAR
+2025-05-12 09:49:52.006327, Withdrawal, 23.0, , , Account 274106 withdrew 23.0 ZAR
